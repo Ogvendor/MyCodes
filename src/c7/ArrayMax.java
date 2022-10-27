@@ -9,7 +9,7 @@ public class ArrayMax {
        String[] months = {"January","February","March","April"};
         System.out.println("Enter a month number (1 to 12): ");
         int monthNumber = input.nextInt();
-        System.out.println("The month is " + months[monthNumber ]);
+        System.out.println("The month is " + months[monthNumber - 1 ]);
 
 
 

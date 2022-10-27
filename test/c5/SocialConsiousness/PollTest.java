@@ -11,6 +11,7 @@ public class PollTest {
 
     @BeforeEach
     void setUp(){
+
         poll = new Poll();
     }
 

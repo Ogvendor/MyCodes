@@ -1,5 +1,6 @@
 package intro.c7;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Array {
@@ -21,6 +22,16 @@ public class Array {
                 min = num[v];
         }
         System.out.println("min is " + min);
+
+        double max = num[0];
+        for (int v = 0;v < num.length;v++){
+            if (num[v] > max)
+                max = num[v];
+        }
+        System.out.println("max is " + max);
+
+        Arrays.sort(num);
+        System.out.println(Arrays.toString(num));
 
         }
 

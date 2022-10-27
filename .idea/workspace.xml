@@ -2,17 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52b65567-ee1f-4b86-82a3-fab2faf329a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVAA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c17/Lambdas_and_Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c17/MoreExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c7Funmi/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c7Funmi/Box2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c8/Cylinde/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c8/EnumExamples/EnumBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intro/c7/ArrayList/ArrayListEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intro/c7/Cardz/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intro/c7/Practices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intro/c7/StillOnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intro/c8/Time/Time1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intro/c8/Time/TimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/c8/Cylinde/CylinderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c7/ArrayMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/c7/ArrayMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c7Funmi" beforeDir="false" afterPath="$PROJECT_DIR$/src/c7Funmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c8/ComplexNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/c8/ComplexNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intro/c7/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro/c7/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/TicTacToe/BoardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TicTacToe/BoardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/c5/SocialConsiousness/PollTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/c5/SocialConsiousness/PollTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/c6/Method/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/c6/Method/CircleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/c6/Method/LeapYearTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/c6/Method/LeapYearTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,13 +52,113 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="c8.Cylinde" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CylinderTest.testThatCylinderHeightCannotBeNegative">
+    <configuration name="BoardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVAA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TicTacToe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TicTacToe" />
+      <option name="MAIN_CLASS_NAME" value="TicTacToe.BoardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CylinderTest.testThatCylinderHasBeenCreated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVAA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c8.Cylinde.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="c8.Cylinde" />
+      <option name="MAIN_CLASS_NAME" value="c8.Cylinde.CylinderTest" />
+      <option name="METHOD_NAME" value="testThatCylinderHasBeenCreated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CylinderTest.testThatCylinderHeightCannotBeNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVAA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c8.Cylinde.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="c8.Cylinde" />
+      <option name="MAIN_CLASS_NAME" value="c8.Cylinde.CylinderTest" />
+      <option name="METHOD_NAME" value="testThatCylinderHeightCannotBeNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CylinderTest.testThatCylinderRadiusCannotBeNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVAA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c8.Cylinde.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="c8.Cylinde" />
+      <option name="MAIN_CLASS_NAME" value="c8.Cylinde.CylinderTest" />
+      <option name="METHOD_NAME" value="testThatCylinderRadiusCannotBeNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CylinderTest.testThatCylinderVolumeHasBeenCalculated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVAA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c8.Cylinde.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="c8.Cylinde" />
+      <option name="MAIN_CLASS_NAME" value="c8.Cylinde.CylinderTest" />
+      <option name="METHOD_NAME" value="testThatCylinderVolumeHasBeenCalculated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CylinderTest.testThatCylinderHeightCannotBeNegative" />
+        <item itemvalue="JUnit.CylinderTest.testThatCylinderRadiusCannotBeNegative" />
+        <item itemvalue="JUnit.CylinderTest.testThatCylinderVolumeHasBeenCalculated" />
+        <item itemvalue="JUnit.CylinderTest.testThatCylinderHasBeenCreated" />
+        <item itemvalue="JUnit.BoardTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,7 +167,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665530005550</updated>
-      <workItem from="1665530010512" duration="371000" />
+      <workItem from="1665530010512" duration="2291000" />
+      <workItem from="1665665678040" duration="8737000" />
+      <workItem from="1665922092221" duration="15465000" />
+      <workItem from="1666216147607" duration="9171000" />
+      <workItem from="1666525395712" duration="4778000" />
+      <workItem from="1666707884319" duration="7802000" />
+      <workItem from="1666787102074" duration="10747000" />
     </task>
     <servers />
   </component>

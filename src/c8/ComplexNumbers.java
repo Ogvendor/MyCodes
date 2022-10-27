@@ -32,6 +32,7 @@ public class ComplexNumbers {
     }
 
     public void displayComplexNumbers(){
+
         System.out.println(realPart + " + " + imaginaryPart + "i");
     }
 
